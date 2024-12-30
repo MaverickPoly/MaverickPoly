@@ -71,22 +71,22 @@ Languages
 		<tr>
     <td>Machine Learning</td>
     <td>
-        <img width="70" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/>
-        <img width="70" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/>
-        <img width="70" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow"/>
-        <img width="70" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch"/>
-        <img width="70" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="Keras"/>
-        <img width="70" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" title="Scikit-learn"/>
+        <img width="90" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/>
+        <img width="90" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/>
+        <img width="90" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow"/>
+        <img width="90" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch"/>
+        <img width="90" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="Keras"/>
+        <img width="90" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" title="Scikit-learn"/>
     </td>
 </tr>
 		<td>Designing</td>
 		<td><img width="80" src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665" alt="After Effects" title="After Effects"/>
-			<img width="80" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" alt="Illustrator" title="Illustrator"/>
-			<img width="80" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white" alt="InDesign" title="InDesign"/>
-			<img width="80" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" title="Photoshop"/>
-			<img width="80" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white" alt="PremierePro" title="PremierePro"/>
-			<img width="70" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" title="Figma"/>
-			<img width="70" src="https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white" alt="Gimp" title="Gimp"/></td>
+			<img width="90" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" alt="Illustrator" title="Illustrator"/>
+			<img width="90" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white" alt="InDesign" title="InDesign"/>
+			<img width="90" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" title="Photoshop"/>
+			<img width="90" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white" alt="PremierePro" title="PremierePro"/>
+			<img width="80" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" title="Figma"/>
+			<img width="80" src="https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white" alt="Gimp" title="Gimp"/></td>
 		</tr>
 		<tr>
 		<td>Others</td>
