@@ -71,12 +71,12 @@ Languages
 		<tr>
     <td>Machine Learning</td>
     <td>
-        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462310-fb9fdfe6-3d30-47d9-bc94-484947c9b2d6.png" alt="NumPy" title="NumPy"/>
-        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462264-595a0ba1-3c32-4e77-bd63-3c2a2c6d5b1d.png" alt="Pandas" title="Pandas"/>
-        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462272-7701c7f3-1e9c-4fd1-8c46-747a5d1f3a9e.png" alt="TensorFlow" title="TensorFlow"/>
-        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462330-3e30e134-f348-4df2-a0c7-470d074c4e58.png" alt="PyTorch" title="PyTorch"/>
-        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462293-84e3ad1c-f167-4b5f-9101-7e8997c8c221.png" alt="Keras" title="Keras"/>
-        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462350-b073a28c-27f0-487d-8c22-0fbd855ed1d0.png" alt="Scikit-learn" title="Scikit-learn"/>
+        <img width="70" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" title="NumPy"/>
+        <img width="70" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/>
+        <img width="70" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow"/>
+        <img width="70" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch"/>
+        <img width="70" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="Keras"/>
+        <img width="70" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" title="Scikit-learn"/>
     </td>
 </tr>
 		<td>Designing</td>
