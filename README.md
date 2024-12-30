@@ -68,13 +68,17 @@ Languages
 			<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 			<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></td></tr>
-			<tr>
-		<td>Others</td>
-			<td><img width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
-			<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" alt="Qt" title="Qt"/>
-			<img width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></td></tr>
-			<tr>
+		<tr>
+    <td>Machine Learning</td>
+    <td>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462310-fb9fdfe6-3d30-47d9-bc94-484947c9b2d6.png" alt="NumPy" title="NumPy"/>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462264-595a0ba1-3c32-4e77-bd63-3c2a2c6d5b1d.png" alt="Pandas" title="Pandas"/>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462272-7701c7f3-1e9c-4fd1-8c46-747a5d1f3a9e.png" alt="TensorFlow" title="TensorFlow"/>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462330-3e30e134-f348-4df2-a0c7-470d074c4e58.png" alt="PyTorch" title="PyTorch"/>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462293-84e3ad1c-f167-4b5f-9101-7e8997c8c221.png" alt="Keras" title="Keras"/>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/193462350-b073a28c-27f0-487d-8c22-0fbd855ed1d0.png" alt="Scikit-learn" title="Scikit-learn"/>
+    </td>
+</tr>
 		<td>Designing</td>
 		<td><img width="80" src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665" alt="After Effects" title="After Effects"/>
 			<img width="80" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" alt="Illustrator" title="Illustrator"/>
@@ -83,7 +87,14 @@ Languages
 			<img width="80" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white" alt="PremierePro" title="PremierePro"/>
 			<img width="70" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" title="Figma"/>
 			<img width="70" src="https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white" alt="Gimp" title="Gimp"/></td>
-</tr>
+		</tr>
+		<tr>
+		<td>Others</td>
+			<td><img width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" alt="Qt" title="Qt"/>
+			<img width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></td></tr>
+		<tr>
 </table>
 </div>
 
