@@ -7,6 +7,7 @@ Hi! I'm Maverick, a developer who loves to code in various languages, technologi
 - 🎓 **Education**: Self-Made Coder
 - 🌱 **Currently Learning**: Advanced Web Dev / Machine Learning.
 - 📫 **How to Reach Me**: altairetech@gmail.com
+- 📚 **Learning**: https://altair-edu-web-5hmf.vercel.app/
 
 ---
 
