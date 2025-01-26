@@ -5,16 +5,13 @@
 Hi! I'm Maverick, a developer who loves to code in various languages, technologies and frameworks.
 
 - 🎓 **Education**: Self-Made Coder
-- 🌱 **Currently Learning**: Advanced Web Dev / Machine Learning.
+- 🌱 **Currently Learning**: Godot Engine, Machine Learning, Web Development...
 - 📫 **How to Reach Me**: altairetech@gmail.com
 - 📚 **Learning**: https://altair-edu-web-5hmf.vercel.app/
 
 ---
 
 ## 🛠️ Skills
-
-Languages
-
 <div>
 	<table>
 	<tr><th>Field</th><th>Info</th></tr>
