@@ -4,10 +4,13 @@
 
 Hi! I'm Maverick, a developer who loves to code in various languages, technologies and frameworks.
 
-- 🎓 **Education**: Self-Made Coder
-- 🌱 **Currently Learning**: Godot Engine, Machine Learning, Web Development...
+- 🎓 **Education**: Self-Made Programmer
+- 🌱 **Currently Learning**: Godot Engine, Machine Learning, After Effects, Photoshop, Golang, C#, Unity...
 - 📫 **How to Reach Me**: altairetech@gmail.com
 - 📚 **Learning**: https://altair-edu-web-5hmf.vercel.app/
+- 🔮 **Website**: https://first-portfolio-beta-nine.vercel.app/
+- 🧠 **Programming Languages**: Python, JavaScript, Java, C#, Golang, Dart, C, C++, TypeScript
+- 💡 **Languages**: English, Russian, Uzbek, Chineese, German
 
 ---
 
@@ -101,6 +104,13 @@ Hi! I'm Maverick, a developer who loves to code in various languages, technologi
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaverickPoly&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaverickPoly&theme=redical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MaverickPoly&color=blue)
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ---
 
