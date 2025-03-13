@@ -2,16 +2,14 @@
 
 ## About Me 🌟
 
-Hi! I'm Maverick, a developer who loves to code in various languages, technologies and frameworks.
-
-- 🎓 **Education**: Self-Made Programmer
-- 🌱 **Currently Learning**: Godot Engine, Machine Learning, After Effects, Photoshop, Golang, C#, Premiere Pro, Vue, React Native, Unity...
+- 🎓 **Education**: Programmer
+- 🌱 **Currently Learning**: Godot Engine, Machine Learning, After Effects, Photoshop, Golang, C#, Premiere Pro, Vue, React Native, Unity, Rust...
 - 📫 **How to Reach Me**: altairetech@gmail.com
 - 📚 **Learning**: https://altair-edu-web-5hmf.vercel.app/
 - 🔮 **Website**: https://first-portfolio-beta-nine.vercel.app/
 - 🧠 **Programming Languages**: Python, JavaScript, Java, C#, Golang, Dart, C, C++, TypeScript
 - 💡 **Languages**: English, Russian, Uzbek, Chineese, German
-- 🏆 **Specialization**: Full Stack, Frontend, Backend, Mobile app, Game Development, AI
+- 🏆 **Specialization**: Full Stack, Frontend, Backend, Mobile app, Game Development, Machine Learning, Design
 
 ---
 
