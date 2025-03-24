@@ -106,7 +106,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaverickPoly&theme=redical)
 
-![Programming Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={MaverickPoly}&theme={vue})
+![Programming Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaverickPoly&theme=vue)
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaverickPoly&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaverickPoly&color=blue)
 
