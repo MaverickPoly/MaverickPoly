@@ -2,14 +2,10 @@
 
 ## About Me 🌟
 
-- 🎓 **Education**: Programmer
-- 🌱 **Currently Learning**: Godot Engine, Machine Learning, After Effects, Photoshop, Golang, C#, Premiere Pro, Vue, React Native, Unity, Rust...
-- 📫 **How to Reach Me**: altairetech@gmail.com
 - 📚 **Learning**: https://altair-edu-web-5hmf.vercel.app/
 - 🔮 **Website**: https://first-portfolio-beta-nine.vercel.app/
-- 🧠 **Programming Languages**: Python, JavaScript, Java, C#, Golang, Dart, C, C++, TypeScript
-- 💡 **Languages**: English, Russian, Uzbek, Chineese, German
-- 🏆 **Specialization**: Full Stack, Frontend, Backend, Mobile app, Game Development, Machine Learning, Design
+- 🧠 **Programming Languages**: Python, JavaScript, Java, C#, Golang, Dart, C, C++, TypeScript, Godot, Rust, R, Pascal
+- 🏆 **Specialization**: *
 
 ---
 
