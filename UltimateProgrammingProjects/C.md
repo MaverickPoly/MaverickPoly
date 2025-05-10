@@ -1,43 +1,24 @@
 ### 🧠 Core C Programming Projects
 
 1. Number Guessing Game
-
 2. ATM Simulation
-
 3. Tic-Tac-Toe (2 Player)
-
 4. Library Management System
-
 5. Simple Student Record System
-
 6. Matrix Calculator
-
 7. GPA Calculator
-
 8. Temperature Converter
-
 9. Mini Shell (command line parser)
-
 10. Calendar Generator
-
 11. Scientific Calculator
-
 12. Employee Salary Manager
-
 13. Fibonacci Generator
-
 14. Alarm Clock Console App
-
 15. Hangman Game
-
 16. Prime Number Finder
-
 17. Binary to Decimal Converter
-
 18. File Encryption/Decryption
-
 19. Mini Typing Test
-
 20. Dice Roller Game
 
 ---
