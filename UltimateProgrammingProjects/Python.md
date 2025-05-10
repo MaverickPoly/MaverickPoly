@@ -1,4 +1,4 @@
-### 🕹️ **Game Development **
+### 🕹️ **Game Development**
 
 1. Snake Game
 2. Tetris
