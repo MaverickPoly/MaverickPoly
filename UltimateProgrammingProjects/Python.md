@@ -50,7 +50,7 @@
 
 ### 🖥️ **Desktop App Development**
 
-41. Calculator
+41. Calculator ✅
 42. To-Do List
 43. Alarm Clock
 44. Countdown Timer
