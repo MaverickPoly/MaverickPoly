@@ -100,7 +100,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&langs_count=20)
 
 ![Programming Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaverickPoly&theme=tokyonight)
 
