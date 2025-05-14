@@ -4,15 +4,51 @@
 
 ### Backend
 
+#### Django
+
+#### Flask
+
+#### FastAPI
+
 ### Machine Learning
+
+#### Sklearn
+
+#### Keras
+
+#### Tensorflow
+
+#### Pytorch
 
 ### Data Science
 
+#### Numpy
+
+#### Matplotlib
+
+#### Pandas
+
+#### SciPy
+
 ### Game Development
+
+#### Pygame
+
+#### Raylib
 
 ### Desktop
 
+#### Tkinter
+
+#### PyQT
+
+#### Kivy
+
+#### wxPython
+
 ### Misc
+
+---
 
 ## JavaScript
 
@@ -28,6 +64,8 @@
 
 ### Misc
 
+---
+
 ## C++
 
 ### Game Development
@@ -39,6 +77,8 @@
 ### Devops
 
 ### Misc
+
+---
 
 ## Java
 
@@ -54,11 +94,15 @@
 
 ### Misc
 
+---
+
 ## Go
 
 ### Backend
 
 ### Misc
+
+---
 
 ## C#
 
@@ -72,6 +116,8 @@
 
 ### Misc
 
+---
+
 ## Rust
 
 ### Game Development
@@ -84,11 +130,15 @@
 
 ### Misc
 
+---
+
 ## C
 
 ### Devops
 
 ### Misc
+
+---
 
 ## Dart
 
@@ -96,11 +146,15 @@
 
 ### Misc
 
+---
+
 ## Kotlin
 
 ### Mobile App Development
 
 ### Misc
+
+---
 
 ## Swift
 
