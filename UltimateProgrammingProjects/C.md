@@ -1,4 +1,4 @@
-### 🧠 Core C Programming Projects
+### 🧠 Core C Programming Projects ✅✅
 
 1. Number Guessing Game
 2. ATM Simulation
