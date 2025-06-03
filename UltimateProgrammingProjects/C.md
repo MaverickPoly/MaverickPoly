@@ -17,7 +17,7 @@
 15. Hangman Game
 16. Prime Number Finder
 17. Binary to Decimal Converter
-18. File Encryption/Decryption
+18. File Write/Read
 19. Mini Typing Test
 20. Dice Roller Game
 
