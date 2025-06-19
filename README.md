@@ -10,6 +10,7 @@
 ---
 
 ## 🛠️ Skills
+
 <div>
 	<table>
 	<tr><th>Field</th><th>Info</th></tr>
@@ -102,13 +103,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&langs_count=20&layout=compact)
 
-![Programming Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaverickPoly&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaverickPoly&theme=redical)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaverickPoly&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaverickPoly&color=blue)
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ---
