@@ -108,11 +108,3 @@
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaverickPoly&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaverickPoly&color=blue)
-
-
----
-
-## 📫 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://first-portfolio-beta-nine.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altairetech@gmail.com)
