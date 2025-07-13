@@ -110,8 +110,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaverickPoly&color=green)
 
+---
+
+## Wakatime
 
 [![WakaTime](https://wakatime.com/badge/user/2a7d0064-9b18-4884-809b-df435b749b76.svg)](https://wakatime.com/@Altairetech)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Altairetech)](https://wakatime.com/@Altairetech)
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akgarg0472&layuout=compact&theme=gotham&langs_count=20&layout=compact&custom_title=Coding%20Stats" alt="Coding stats"/>
