@@ -4,6 +4,7 @@
 
 - 📚 **Learning**: https://altair-edu-web-5hmf.vercel.app/
 - 🔮 **Website**: https://first-portfolio-beta-nine.vercel.app/
+- 🎮**Gamify Coding**: https://maverick29.pythonanywhere.com
 - 🧠 **Programming Languages**: Python, JavaScript, Java, C#, Golang, Dart, C, C++, TypeScript, Godot, Rust, R, Pascal
 - 🏆 **Specialization**: *
 
