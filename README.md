@@ -102,7 +102,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&langs_count=20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&langs_count=26&layout=compact)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaverickPoly&theme=redical)
 
@@ -117,4 +117,4 @@
 
 [![WakaTime](https://wakatime.com/badge/user/2a7d0064-9b18-4884-809b-df435b749b76.svg)](https://wakatime.com/@Altairetech)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Altairetech&layout=compact&theme=gotham&langs_count=20&custom_title=Coding%20Stats" alt="Coding stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Altairetech&layout=compact&theme=gotham&langs_count=26&custom_title=Coding%20Stats" alt="Coding stats"/>
