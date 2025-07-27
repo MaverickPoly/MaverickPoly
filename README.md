@@ -100,7 +100,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaverickPoly&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&langs_count=30&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickPoly&langs_count=24&layout=compact)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaverickPoly&theme=redical)
 
