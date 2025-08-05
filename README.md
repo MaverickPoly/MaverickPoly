@@ -129,8 +129,6 @@
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaverickPoly&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaverickPoly&color=green)
-
 ---
 
 ## Wakatime
