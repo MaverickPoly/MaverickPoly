@@ -49,7 +49,7 @@
 37. Tree Traversal (BFS/DFS)
 38. Binary Search Tree
 39. Hash Table Implementation
-40. AVL Tree Viewer
+40. Dynamic List
 
 ---
 
