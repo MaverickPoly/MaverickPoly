@@ -1,282 +1,328 @@
-### 🧱 Core C++ Projects
+# 🔹 BEGINNER & CORE C++ (1–50)
 
-1. Simple Banking System (CLI)
-2. Inventory Management System
-3. Student Management System
-4. Address Book
-5. Command-Line Todo App
-6. Employee Payroll System
-7. Library Management System
-8. Phone Directory
-9. Console-Based Calculator
-10. Grade Report Generator
-11. Currency Converter
-12. Railway Reservation Simulator
-13. Typing Speed Tester
-14. Digital Clock (Console)
-15. Simple Voting System
-
----
-
-### 📊 Data Structures & Algorithms (Visualized or CLI)
-
-16. Stack/Queue Implementations
-17. Linked List Playground
-18. Binary Search Tree Visualizer
-19. AVL Tree Demo
-20. Graph Algorithms (DFS, BFS, Dijkstra)
-21. Sorting Algorithms Visualizer
-22. Min/Max Heap Implementation
-23. Trie for Autocomplete
-24. Priority Queue Simulator
-25. Disjoint Set Union (Union Find)
-26. Hash Map from Scratch
-27. Segment Tree Implementation
-28. Fenwick Tree / BIT Demo
-29. KMP Pattern Matching
-30. Pathfinding (A\*, Dijkstra)
-
----
-
-### 🎮 Game Development (SFML, SDL, OpenGL)
-
-31. Snake Game
-32. Tetris
-33. Tic-Tac-Toe with AI
-34. Pong
-35. Breakout/Brick Breaker
-36. Flappy Bird Clone
-37. 2D Platformer Game
-38. Space Invaders
-39. Tower Defense Game
-40. Chess with Minimax AI
-41. Sudoku Game
-42. 2048 Game
-43. Pac-Man
-44. Minesweeper
-45. Hangman (GUI or CLI)
-46. Memory Card Match
-47. RPG Battle System
-48. Checkers Game
-49. Air Hockey Game
-50. Conway's Game of Life
+1. Console calculator
+2. Number guessing game
+3. Tic-Tac-Toe
+4. Hangman
+5. Rock-Paper-Scissors
+6. Prime number checker
+7. Fibonacci generator
+8. Matrix operations tool
+9. Sorting visualizer
+10. Simple text editor
+11. Unit converter
+12. Password strength checker
+13. File encryption tool
+14. Student management system
+15. Bank account simulator
+16. Library management system
+17. Address book
+18. CLI to-do list
+19. File compression demo
+20. Binary to decimal converter
+21. Temperature converter
+22. Palindrome checker
+23. Maze solver
+24. Sudoku solver
+25. Random password generator
+26. URL validator
+27. Contact manager
+28. File organizer
+29. Quiz application
+30. Chat application (local)
+31. Text-based RPG
+32. Typing speed tester
+33. Currency converter
+34. Word frequency counter
+35. Regex tester
+36. Stopwatch / timer
+37. Command-line calculator
+38. Text-based calendar
+39. File search utility
+40. Simple logger
+41. Voting system
+42. Grade calculator
+43. Email validator
+44. CSV parser
+45. Math expression evaluator
+46. URL shortener (local)
+47. Simple HTTP client
+48. Game leaderboard
+49. Config file parser
+50. Password manager (basic)
 
 ---
 
-### 🖥️ GUI Applications (Qt / wxWidgets / ImGui)
+# ⚙️ DATA STRUCTURES & ALGORITHMS (51–100)
 
-51. Notepad Clone
-52. Image Viewer
-53. PDF Reader
-54. File Explorer
-55. Contact Manager
-56. Personal Diary
-57. Calculator (Scientific)
-58. Task Scheduler
-59. Weather Dashboard (API integration)
-60. Chat UI Client
-61. Expense Tracker
-62. Password Manager
-63. Markdown Editor
-64. Music Player
-65. Pomodoro Timer
-66. Digital Stopwatch
-67. YouTube Video Downloader UI
-68. Alarm Clock
-69. Screen Color Picker
-70. Resume Builder GUI
-
----
-
-### 🌐 Networking Projects
-
-71. HTTP Web Server
-72. Chat Server & Client
-73. FTP Client
-74. Ping Utility
-75. Email Sender via SMTP
-76. IRC Chat Client
-77. Telnet Emulator
-78. P2P File Sharing
-79. Remote Command Executor
-80. LAN Multiplayer Game
-
----
-
-### 📦 System-Level & OS Concepts
-
-81. File Compression Tool (Huffman, RLE)
-82. File System Explorer
-83. Virtual Shell / Terminal Emulator
-84. Simple Process Scheduler Simulator
-85. Multithreaded Download Manager
-86. Memory Allocator Simulator (like malloc/free)
-87. Virtual File System
-88. Custom Archive Format (.myzip)
-89. Resource Monitor (CPU, RAM stats)
-90. Defragmentation Simulator
-
----
-
-### 🔐 Security & Cryptography
-
-91. Caesar Cipher
-92. Vigenère Cipher
-93. RSA Encryption
-94. File Encryptor/Decryptor
-95. Hash Generator (SHA, MD5)
-96. Password Manager (encrypted)
-97. OTP Generator
-98. Steganography Tool
-99. Keylogger (ethical use only)
-100.  Secure File Vault
+51. Dynamic array (vector clone)
+52. Singly linked list
+53. Doubly linked list
+54. Stack implementation
+55. Queue implementation
+56. Circular queue
+57. Priority queue
+58. Binary search tree
+59. AVL tree
+60. Red-black tree
+61. Trie (prefix tree)
+62. Hash table
+63. Bloom filter
+64. LRU cache
+65. Min-heap / max-heap
+66. Graph adjacency list
+67. Graph adjacency matrix
+68. Dijkstra’s algorithm
+69. A* pathfinding
+70. Bellman-Ford
+71. Floyd-Warshall
+72. Kruskal’s algorithm
+73. Prim’s algorithm
+74. Topological sorting
+75. Union-Find
+76. Segment tree
+77. Fenwick tree
+78. Sparse table
+79. KMP string matching
+80. Rabin-Karp
+81. Suffix array
+82. Suffix automaton
+83. Z-algorithm
+84. Boyer-Moore
+85. Convex hull
+86. Sweep line algorithm
+87. FFT implementation
+88. Big integer arithmetic
+89. Polynomial multiplication
+90. Matrix exponentiation
+91. Binary lifting
+92. Lowest common ancestor
+93. Heavy-light decomposition
+94. Mo’s algorithm
+95. Randomized algorithms
+96. Persistent data structures
+97. Treap
+98. Cartesian tree
+99. Dynamic programming library
+100. Graph algorithm visualizer
 
 ---
 
-### 🧠 AI/ML Projects (C++ Libraries like Dlib, OpenCV, FANN)
+# 🧠 SYSTEMS & LOW-LEVEL PROGRAMMING (101–150)
 
-101. Face Detection
-102. Handwritten Digit Recognition
-103. Spam Filter using Naive Bayes
-104. Self-learning Tic-Tac-Toe AI
-105. Genetic Algorithm for Optimization
-106. Decision Tree Classifier
-107. Neural Network from Scratch
-108. Linear Regression Demo
-109. K-Means Clustering
-110. Sudoku Solver using Backtracking AI
-
----
-
-### 🤖 Robotics & Embedded Systems (Arduino, Raspberry Pi, etc.)
-
-111. Home Automation System
-112. Line Following Robot
-113. Temperature Logger
-114. Smart Door Lock
-115. IoT Weather Station
-116. RC Car Controller
-117. Arduino-based Alarm System
-118. Water Level Indicator
-119. Smart Dustbin
-120. Ultrasonic Obstacle Avoider
-
----
-
-### 🧰 Developer Tools / Utilities
-
-121. Code Snippet Manager
-122. Static Code Analyzer
-123. Regex Tester
-124. Syntax Highlighter
-125. JSON Viewer & Formatter
-126. File Difference Checker
-127. Code Formatter (like clang-format)
-128. IDE-like Mini Editor
-129. Script Executor
-130. Compiler Flags Optimizer
-
----
-
-### 🗃️ Database Applications (with SQLite / MySQL)
-
-131. CRUD GUI App with SQLite
-132. Student Records Manager
-133. Inventory System with Reports
-134. Order Management App
-135. Customer Database Interface
-136. Billing System
-137. Hotel Booking System
-138. Vehicle Rental System
-139. Clinic Patient Tracker
-140. Complaint Management System
+101. Custom memory allocator
+102. Smart pointer implementation
+103. Reference counting system
+104. Garbage collector simulator
+105. Multithreaded task scheduler
+106. Thread pool
+107. Lock-free queue
+108. Atomic operations demo
+109. Custom STL container
+110. Stack unwinding demo
+111. Signal handling system
+112. OS process monitor
+113. CPU scheduler simulator
+114. Memory paging simulator
+115. Virtual memory manager
+116. File system simulator
+117. System call wrapper
+118. Cross-platform logger
+119. Shared memory IPC
+120. Message queue
+121. Semaphore & mutex demo
+122. Spinlock implementation
+123. Kernel module simulator
+124. System resource monitor
+125. Low-latency timer
+126. Binary loader
+127. ELF parser
+128. PE file parser
+129. Dynamic linker simulator
+130. Custom build system
+131. Crash dump analyzer
+132. Profiler tool
+133. Debugger prototype
+134. Virtual machine interpreter
+135. Bytecode executor
+136. JIT compiler demo
+137. Assembly instruction emulator
+138. C++ reflection system
+139. Plugin system
+140. Hot-reload engine
+141. Cross-platform daemon
+142. POSIX utilities clone
+143. Memory leak detector
+144. Thread sanitizer tool
+145. Static code analyzer
+146. Binary instrumentation tool
+147. Low-level networking stack
+148. Kernel scheduler model
+149. Cross-platform installer
+150. OS abstraction layer
 
 ---
 
-### 🎥 Multimedia Projects
+# 🌐 NETWORKING & BACKEND (151–200)
 
-141. Media Player
-142. Audio Visualizer
-143. Basic Video Editor
-144. Image Editor (crop, filter, etc.)
-145. GIF Generator from Images
-146. Audio Recorder
-147. Voice Changer
-148. Webcam Viewer
-149. Slideshow Creator
-150. Real-Time Subtitle Renderer
-
----
-
-### 📑 File Processing & I/O
-
-151. Log File Analyzer
-152. CSV Processor
-153. XML/JSON Parser
-154. Batch File Renamer
-155. File Metadata Viewer
-156. PDF Generator
-157. Resume Parser
-158. Code Stats Analyzer
-159. Markdown to HTML Converter
-160. Keyword Indexer
-
----
-
-### 🧪 Testing / DevOps
-
-161. Custom Unit Testing Framework
-162. Code Coverage Analyzer
-163. CI/CD Setup Script
-164. Dockerfile Generator for C++ Apps
-165. GDB Visual Debugger Helper
-166. Test Case Generator
-167. Git Commit Analyzer
-168. Build Log Analyzer
-169. Static Linking Visualizer
-170. Binary Size Optimizer
-
----
-
-### 🏗️ Compilers & Interpreters
-
-171. Mini C Compiler
-172. Arithmetic Expression Parser
-173. Brainf\*ck Interpreter
-174. Assembly Code Emulator
-175. Regex Engine
-176. BASIC Interpreter
-177. Syntax Tree Visualizer
-178. Lexical Analyzer (Lexer)
-179. Intermediate Code Generator
-180. Virtual Stack Machine
+151. TCP chat server
+152. UDP messaging system
+153. HTTP server from scratch
+154. REST API server
+155. WebSocket server
+156. Load balancer
+157. Reverse proxy
+158. Rate limiter
+159. Authentication server
+160. OAuth2 implementation
+161. JWT auth system
+162. FTP server
+163. DNS resolver
+164. Email server (SMTP)
+165. RPC framework
+166. gRPC-like system
+167. Message broker
+168. Publish-subscribe system
+169. Distributed cache
+170. Session management system
+171. API gateway
+172. CDN simulation
+173. Network packet sniffer
+174. Traffic analyzer
+175. Port scanner
+176. Intrusion detection system
+177. Distributed logging service
+178. File upload/download server
+179. Streaming data server
+180. Real-time notification server
+181. Multiplayer game server
+182. Chat application backend
+183. Distributed key-value store
+184. Web crawler
+185. URL shortener backend
+186. Rate-based billing system
+187. Web monitoring tool
+188. API testing framework
+189. Proxy server
+190. HTTP benchmarking tool
+191. Custom protocol implementation
+192. Service discovery system
+193. Peer-to-peer network
+194. Fault-tolerant server
+195. Event-driven server
+196. High-performance TCP server
+197. Epoll-based server
+198. QUIC protocol prototype
+199. Network simulation framework
+200. Secure communication system
 
 ---
 
-### 📈 Simulations & Math Tools
+# 🎮 GAME DEVELOPMENT & GRAPHICS (201–250)
 
-181. Projectile Motion Simulator
-182. Traffic Flow Simulation
-183. Fluid Dynamics Demo
-184. Circuit Simulator
-185. Diffusion Simulation
-186. 3D Plotting Tool
-187. Matrix Calculator
-188. Linear Algebra Visualizer
-189. Fractal Generator
-190. Monte Carlo Estimator
+201. Snake game
+202. Chess engine
+203. 2D game engine
+204. 3D game engine
+205. Physics engine
+206. Ray tracer
+207. Rasterizer
+208. OpenGL renderer
+209. Vulkan renderer
+210. DirectX renderer
+211. Game scripting language
+212. Entity-component-system (ECS)
+213. Pathfinding engine
+214. Procedural terrain generator
+215. AI-controlled NPCs
+216. Multiplayer FPS prototype
+217. Game level editor
+218. Animation engine
+219. Skeletal animation system
+220. Particle system
+221. Collision detection system
+222. Audio engine
+223. Shader compiler
+224. Material system
+225. Rendering pipeline
+226. Lighting engine
+227. Shadow mapping system
+228. Physics-based simulation
+229. Cloth simulation
+230. Fluid simulation
+231. Vehicle physics engine
+232. Game replay system
+233. Anti-cheat system
+234. Matchmaking server
+235. Game analytics system
+236. UI engine
+237. Font rendering system
+238. Virtual reality engine
+239. Augmented reality app
+240. Scene graph system
+241. Asset pipeline tool
+242. Texture compression tool
+243. Level-of-detail system
+244. Occlusion culling system
+245. Post-processing effects engine
+246. Game modding framework
+247. Procedural animation system
+248. Game networking library
+249. Replay-based debugging tool
+250. AAA-style engine demo
 
 ---
 
-### 🔄 Automation & Productivity Tools
+# 🚀 ADVANCED / INDUSTRY / HIGH-PERFORMANCE (251–300)
 
-191. Keyboard Macro Recorder
-192. Auto Form Filler
-193. Email Scheduler
-194. Desktop Organizer
-195. Wallpaper Changer
-196. Auto Backup Utility
-197. File Sync Tool
-198. System Cleanup App
-199. Clipboard History Manager
-200. Task Automation CLI
+251. Compiler (C-like language)
+252. Static compiler frontend
+253. LLVM backend
+254. Custom programming language
+255. Bytecode VM
+256. Distributed computing framework
+257. MapReduce engine
+258. High-frequency trading system
+259. Order matching engine
+260. Market data feed handler
+261. Low-latency messaging system
+262. Real-time risk engine
+263. Time-series database
+264. Columnar storage engine
+265. In-memory database
+266. Search engine core
+267. Full-text indexer
+268. Recommendation engine
+269. Graph database
+270. Distributed consensus (Raft)
+271. Paxos implementation
+272. Blockchain node
+273. Smart contract VM
+274. Cryptocurrency miner
+275. Networked file system
+276. Cloud storage backend
+277. Kubernetes-like orchestrator
+278. Observability platform
+279. Distributed tracing system
+280. Metrics collection system
+281. Fault-tolerant storage
+282. Distributed scheduler
+283. Remote procedure framework
+284. Zero-copy IO engine
+285. High-performance JSON parser
+286. SIMD math library
+287. GPU compute engine
+288. Ray tracing engine
+289. Video encoding engine
+290. Audio processing engine
+291. Autonomous vehicle simulator
+292. Robotics control system
+293. Physics research simulator
+294. Scientific computing framework
+295. Parallel computing library
+296. Bioinformatics pipeline
+297. Financial risk platform
+298. Enterprise auth system
+299. Operating system kernel
+300. Production-grade C++ framework
+
