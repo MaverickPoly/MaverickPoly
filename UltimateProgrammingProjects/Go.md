@@ -17,7 +17,7 @@
 15. Email validator
 16. Prime number checker
 17. Fibonacci generator
-18. Temperature converter
+18. Meter to Feet Converter
 19. Stopwatch
 20. Countdown timer
 21. File size analyzer
