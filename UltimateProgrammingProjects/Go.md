@@ -9,7 +9,7 @@
 7. Random quote generator
 8. Dice rolling simulator
 9. Simple logger
-10. Log file analyzer
+10. CLI quiz app
 11. Word counter
 12. CSV parser
 13. JSON formatter
@@ -39,7 +39,7 @@
 37. Text formatter
 38. Command-line address book
 39. Random story generator
-40. CLI quiz app
+40. Log file analyzer
 41. Markdown to HTML converter
 42. Simple task scheduler
 43. CLI stopwatch
