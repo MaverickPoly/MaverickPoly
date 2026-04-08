@@ -246,7 +246,3 @@
 198. Unit converter (length, weight, temp)
 199. Phone directory with binary search
 200. Word frequency counter from files
-
----
-
-That's 200 C project ideas spanning systems programming, networking, security, algorithms, games, compilers, graphics, embedded systems, and real-world applications. C is uniquely powerful for low-level and performance-critical work — any of these will sharpen your understanding of how computers truly work!
