@@ -1,4 +1,4 @@
-# 200 Python Projects
+# 200 Python Project Ideas
 
 ## 🌐 Web Development (1–20)
 1. Personal blog with Flask/Django
