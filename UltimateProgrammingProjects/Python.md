@@ -44,7 +44,7 @@ Focus on basics: variables, loops, functions, conditionals, lists/dictionaries, 
 41. Snake Game (basic Pygame)
 42. Pong Game (Pygame)
 43. Flappy Bird Clone (Pygame)
-44. Guess the Number with Hints
+44. Custom Input Widget with Pygame
 45. Binary to Decimal Converter
 46. Prime Number Checker & Generator
 47. Fibonacci Sequence Generator
