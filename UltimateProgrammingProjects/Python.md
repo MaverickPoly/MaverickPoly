@@ -40,7 +40,7 @@ Focus on basics: variables, loops, functions, conditionals, lists/dictionaries, 
 37. Library Management System (CLI)
 38. Student Grade Calculator
 39. Tip Calculator
-40. Blackjack Game (Console)
+40. Blackjack Game (Pygame)
 41. Snake Game (basic Pygame)
 42. Pong Game (Pygame)
 43. Flappy Bird Clone (Pygame)
@@ -85,16 +85,16 @@ Focus on basics: variables, loops, functions, conditionals, lists/dictionaries, 
 82. Docstring Template Creator
 83. Simple API Caller Demo
 84. Mock Data Generator
-85. Random Team Picker
-86. Election Vote Counter Simulator
-87. Survey Form Processor
-88. Recipe Ingredient Scaler
-89. Fitness Goal Tracker
-90. Sleep Cycle Calculator
-91. Budget Planner CLI
+85. 
+86. 
+87. 
+88. Youtube to MP4 GUI (PyQT)
+89. Youtube to MP3 GUI (PyQT)
+90. PyQT Calculator
+91. Simple Autoclicker
 92. Loan EMI Calculator
 93. Interest Rate Calculator
-94. Simple Paint Tool (Tkinter)
+94. Screenshot taker tool
 95. Button Click Counter GUI
 96. Image Viewer GUI
 97. Music Player Basic (using pygame.mixer)
@@ -109,12 +109,15 @@ Involve GUIs, web frameworks, data handling, APIs, basic ML, and automation.
 102. Personal Portfolio Website (Flask)
 103. Blog Platform (Django basics)
 104. To-Do List Web App (Flask)
-105. Quiz/Trivia Web App
+105. URL Shortener (Flask)
 106. Weather Dashboard (Tkinter or Streamlit)
-107. Automated Web Scraper with Scheduler
+107. GUI Chat Application
 108. File Organizer GUI
 109. Password Manager (encrypted)
 110. Chat Application (Socket programming)
+
+----------------------------------
+
 111. REST API for Task Management (Flask)
 112. E-commerce Backend Simulator
 113. Library Management System with GUI
