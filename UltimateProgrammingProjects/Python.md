@@ -36,7 +36,7 @@ Focus on basics: variables, loops, functions, conditionals, lists/dictionaries, 
 33. News Headline Fetcher
 34. Stock Price Checker (basic API)
 35. Recipe Suggester (from a list)
-36. Movie Recommendation (simple rating-based)
+36. Movie Search using Free API
 37. Library Management System (CLI)
 38. Student Grade Calculator
 39. Tip Calculator
