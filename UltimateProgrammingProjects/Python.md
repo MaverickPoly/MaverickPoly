@@ -77,12 +77,12 @@ Focus on basics: variables, loops, functions, conditionals, lists/dictionaries, 
 74. Motivational Quote Saver
 75. Simple Blog Post Generator
 76. Typing Speed Tester
-77. Word Search Puzzle Generator
-78. Crossword Clue Helper
+77. 
+78. 
 79. Basic Math Quiz
 80. Geometry Calculator (area, volume)
 81. Unit Test Examples Generator
-82. Docstring Template Creator
+82. 
 83. Simple API Caller Demo
 84. Mock Data Generator
 85. 
