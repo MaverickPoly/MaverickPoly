@@ -51,7 +51,7 @@ Focus on basics: variables, loops, functions, conditionals, lists/dictionaries, 
 48. Palindrome Checker
 49. Anagram Finder
 50. Simple Hashing Tool
-51. Daily Habit Tracker (CLI)
+51. Bouncing random balls in Raylib
 52. Grocery List Manager
 53. Bill Splitter App
 54. Age Calculator
