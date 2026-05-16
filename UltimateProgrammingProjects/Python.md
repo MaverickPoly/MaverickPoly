@@ -77,8 +77,8 @@ Focus on basics: variables, loops, functions, conditionals, lists/dictionaries, 
 74. Motivational Quote Saver
 75. Simple Blog Post Generator
 76. Typing Speed Tester
-77. 
-78. 
+77. Multiplayer TikTakToe Game (Pygame + Socket)
+78. QRCode Generator Gui with PyQT
 79. Basic Math Quiz
 80. Geometry Calculator (area, volume)
 81. Unit Test Examples Generator
