@@ -114,7 +114,7 @@ Involve GUIs, web frameworks, data handling, APIs, basic ML, and automation.
 107. GUI Chat Application
 108. File Organizer GUI
 109. Password Manager (encrypted)
-110. Chat Application (Socket programming)
+110. Design an App using QT Designer
 
 ----------------------------------
 
